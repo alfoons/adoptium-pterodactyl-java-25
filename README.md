@@ -1,0 +1,1 @@
+# adoptium-pterodactyl-java-25
